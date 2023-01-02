@@ -1,0 +1,270 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Manali",
+      "photograph": "https://i.postimg.cc/tghtPtD8/manali.jpg",
+      "photograph1": "https://i.postimg.cc/QdtmWTWq/manali1.jpg",
+      "photograph2": "https://i.postimg.cc/26fnTb3M/manali2.jpg",
+      "subname": "Lover's Paradise - India's Honeymoon capital",
+      "descriptions": "One of the most popular hill stations in Himachal, Manali offers the most magnificent views of the Pir Panjal and the Dhauladhar ranges covered with snow for most parts of the year. ",
+      "location": "Himachal Pradesh",
+      "rating": 4,
+      "BestTime": " October to June",
+      "reviews": [
+        {
+          "name": "abhijit sreepada ",
+          "date": "October 26, 2016",
+          "rating": 4.5,
+          "comments": "The 14 kilometre drive from Manali to Solang was totally worth it when I reached the start point of the ropeway that takes one up in Solang Valley. It just got better with every passing minute."
+        },
+        {
+          "name": "Atul Kumar Sao ",
+          "date": "October 26, 2016",
+          "rating": 3.5,
+          "comments": "Manali is a truly awesome place where you can have fun with your friends and family member. It has a lot of places to visit, especially for adventure sports activities.!"
+        },
+        {
+          "name": "Yash Chauhan",
+          "date": "October 26, 2016",
+          "rating": 5,
+          "comments": "Manali is a truly awesome place where you can have fun with your friends and family member."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Leh Ladakh ",
+      "photograph": "https://i.postimg.cc/cLGVJJB9/ladakh.jpg",
+      "photograph1": "https://i.postimg.cc/WpYwc4yF/ladakh1.jpg",
+      "photograph2": "https://i.postimg.cc/TPxrJ5KS/ladakh2.jpg",
+      "subname": "India's Own Moonland",
+      "descriptions": "Ladakh is a union territory in the Kashmir region of India. Formerly falling in the state of Jammu & Kashmir, Ladakh was administered a union territory on 31st October 2019. Extending from the Siachen Glacier to the main Great Himalayas, Ladakh is a land like no other. Dominated by dramatic landscapes, Ladakh is known as the world's coldest desert.. ",
+      "location": "union territory in the Kashmir ",
+      "rating": 4.5,
+      "BestTime": " Jun to Sep",
+      "reviews": [
+        {
+          "name": "Muskan Shah ",
+          "date": "Novmber 20, 2017",
+          "rating": 4.5,
+          "comments": "I travelled to Ladakh in October. The weather was ideal and I witnessed snowfalls. Since Ladakh is at a high altitude, to avoid breathing problems take proper medication."
+        },
+        {
+          "name": " Ayush Baheti  ",
+          "date": "December 16, 2018",
+          "rating": 4,
+          "comments": " Given the altitude,altitude sickness is common among the travelers and thus you should carry proper medication with you. Also,Carrying chocolates everywhere you go is a good idea in Leh. "
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Coorg ",
+      "photograph": "https://i.postimg.cc/kMBZFHMd/coorg.jpg",
+      "photograph1": "https://i.postimg.cc/5tpfKDtJ/coorg1.jpg",
+      "photograph2": "https://i.postimg.cc/fy8H6j9J/coorg2.jpg",
+      "subname": "The Scotland of India",
+      "descriptions": "Located amidst imposing mountains in Karnataka with a perpetually misty landscape, Coorg is a popular coffee producing hill station. It is popular for its beautiful green hills and the streams cutting right through them. ",
+      "location": " Karnataka  ",
+      "rating": 3.5,
+      "BestTime": " October to March",
+      "reviews": [
+        {
+          "name": " arif khan  ",
+          "date": "June 20, 2017",
+          "rating": 4.5,
+          "comments": "The best season to visit Abbey Falls is the monsoon season (June to August) since the falls is full of water and the sight is very beautiful."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Goa ",
+      "photograph": "https://i.postimg.cc/3xT90Sb7/goa.jpg",
+      "photograph1": "https://i.postimg.cc/kgb0tzSs/goa2.webp",
+      "photograph2": "https://i.postimg.cc/d3ffhjtg/goa1.webp",
+      "subname": "Beaches, Sunsets and Crazy Nights",
+      "descriptions": "Lying on the western coast, Goa is India's smallest state and unlike any other, known for its endless beaches, stellar nightlife, eclectic seafood, world-heritage listed architecture. ",
+      "location": "Goa",
+      "rating": 4.5,
+      "BestTime": "October to March",
+      "reviews": [
+        {
+          "name": "Muskan Shah ",
+          "date": "May 23, 2016",
+          "rating": 4.5,
+          "comments": "Calangute beach is one of the most popular beaches in Goa and is located in the town of Calangute. It is also the largest beach in North Goa."
+        },
+        {
+          "name": " Ayush Baheti  ",
+          "date": "July 16, 2017",
+          "rating": 3.5,
+          "comments": " Don't forget to carry beachwear, sunscreen, hat, a pair of flip-flops, and sunglasses.If you're planning a trip between June-September, don't forget to carry your rain gear.. "
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Udaipur ",
+      "photograph": "https://i.postimg.cc/Fs71gN8V/UDAIPUR.jpg",
+      "photograph1": "https://i.postimg.cc/xdPFv21v/udaipur1.jpg",
+      "photograph2": "https://i.postimg.cc/KYQJKD0Q/udaipur2.jpg",
+      "subname": "The city of Lakes",
+      "descriptions": "Udaipur, also known as the City of Lakes, is one of the most visited tourist places in Rajasthan. Located around stunning water lakes and enveloped by the Aravalli Hills in all directions, Udaipur is known for its azure lakes, magnificent palaces, vibrant culture and delectable food. ",
+      "location": "Rajasthan ",
+      "rating": 4.5,
+      "BestTime": "   October to March",
+      "reviews": [
+        {
+          "name": "Snehal Singh ",
+          "date": "May 23, 2020",
+          "rating": 4.5,
+          "comments": "I visited the city of lakes on a college trip. We first went to Fateh Sagar lake, its a great place for boating and looks the best during sunset. "
+        },
+        {
+          "name": " Anjali Vij ",
+          "date": "March 16, 2017",
+          "rating": 3.5,
+          "comments": " The best season to visit Udaipur is October to March. The Udaipur Palace is the biggest monument in the city.  "
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Munnar ",
+      "photograph": "https://i.postimg.cc/FFcGDXS3/munnar.jpg",
+      "photograph1": "https://i.postimg.cc/Bvw7YC2b/munnar1.jpg",
+      "photograph2": "https://i.postimg.cc/zGzdqQj3/munnar2.jpg",
+      "subname": "Kashmir of South India",
+      "descriptions": "Popular among honeymooners, Munnar is a hill station in Kerala, located in the Idukki district. Lying in the Western Ghats at 1600 metres, it is one of the most sought after and visited travel destinations globally, especially popular amongst honeymooners.  ",
+      "location": " Kerala  ",
+      "rating": 4.5,
+      "BestTime": "  September to May",
+      "reviews": [
+        {
+          "name": "Rahul Siddharth ",
+          "date": "October 26, 2021",
+          "rating": 4.5,
+          "comments": "Very nice and informative article. Kerala is such beautiful places it gives you the experience of mountains at Munnar, beaches at Kovalam, houseboat stay at Alleppey and much more. "
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Srinagar ",
+      "photograph": "https://i.postimg.cc/90W4d9Tx/srinagar.jpg",
+      "photograph1": "https://i.postimg.cc/KYRh8jNK/aei2.jpg",
+      "photograph2": "https://i.postimg.cc/L5myh0py/sri1.jpg",
+      "subname": "The Paradise on Earth",
+      "descriptions": "Famously known as 'Heaven on Earth, Srinagar is located in the union territory of Jammu & Kashmir, on the banks of river Jhelum. Srinagar is known for the stationary houseboats and gondola-type rowboats- Shikaras on Dal Lake.   ",
+      "location": " Jammu & Kashmir   ",
+      "rating": 4,
+      "BestTime": " April to October",
+      "reviews": [
+        {
+          "name": " Kanchan Poddar  ",
+          "date": "June 26, 2017",
+          "rating": 4.5,
+          "comments": "I want to go Srinagar, Gulmarg, Sonmarg & Pahelgaon on 2nd October 2019. I am a tourist. I shall go with my family. "
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Alleppey ",
+      "photograph": "https://i.postimg.cc/cLqc39CT/Alleppey.jpg",
+      "photograph1": "https://i.postimg.cc/3RT0HsXc/Alleppey1.jpg",
+      "photograph2": "https://i.postimg.cc/pdTR5q2L/Alleppey12.jpg",
+      "subname": "Backwaters, Beaches and Lagoons - Venice of the East",
+      "descriptions": "Officially called Alappuzha, Alleppey is the picture-perfect place known for its beautiful backwaters and the houseboats offering overnight stays. The coastline of Alleppey offers some of the best beaches in Kerala with water sports during the dry season.  ",
+      "location": " Kerala ",
+      "rating": 4.5,
+      "BestTime": " June to March",
+      "reviews": [
+        {
+          "name": "Kovid Kapoor  ",
+          "date": "May 23, 2018",
+          "rating": 4.5,
+          "comments": "Do Not miss the houseboats. If budget permits, try out a luxury houseboat with air-conditioned rooms, music and lounge on the deck and TV with satellite TV.  "
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Bangalore ",
+      "subname": "Garden city of India",
+      "location": " Karnataka ",
+      "BestTime": " Throughout the year ",
+      "photograph": "https://i.postimg.cc/CMnY7d5K/bnglr.webp",
+      "photograph1": "https://i.postimg.cc/x15S8zx6/bnglr1.jpg",
+      "photograph2": "https://i.postimg.cc/wjfbncbY/bnglr2.jpg",
+      "descriptions": "Having evolved gradually from being the Garden city to the Silicon Valley of India, Bangalore is India's third-largest city. Bangalore is loved for its pleasant weather, beautiful parks and the many lakes here. ",
+      "reviews": [
+        {
+          "name": " Kalyan Kumar ",
+          "date": "october 10",
+          "rating": "4.2",
+          "comments": "Simply for enjoyment and explore your life in differnt ways , with different kind people all over the world its was awesome experience for me"
+        }
+      ]
+    }
+  ],
+  "Packages": [
+    {
+      "id": 1,
+      "name": "Manali,Kulu",
+      "price": "₹ 7,999",
+      "days": "3N/4D",
+      "Inclusion": "Hotels, Sightseeing, Bus/Train, Meals, Bus/Train"
+    },
+    {
+      "id": 2,
+      "name": "Manali",
+      "price": "₹ 5,925",
+      "days": "3N / 4D",
+      "Inclusion": "Hotels, Car, Sightseeing, Meals"
+    },
+    {
+      "id": 3,
+      "name": "Leh, Pangong Lake, Nubra Valley",
+      "price": "₹ 15,000",
+      "days": "6 N / 7 D",
+      "Inclusion": "Hotels,Sightseeing, Meals"
+    },
+    {
+      "id": 4,
+      "name": "Udaipur",
+      "price": "₹ 14,800",
+      "days": "3 N / 4 D",
+      "Inclusion": "Hotels, Bus/Train, Sightseeing, Meals"
+    },
+    {
+      "id": 5,
+      "name": "Srinagar, Gulmarg, Pahalgam",
+      "price": "₹ 15,000",
+      "days": "3 N / 4 D",
+      "Inclusion": "Hotels, Bus/Train, Sightseeing, Meals"
+    },
+    {
+      "id": 6,
+      "name": "Munnar, Alleppey, Kovalam",
+      "price": "₹ 20,000",
+      "days": "4 N / 5 D",
+      "Inclusion": "Hotels, Car, Meals"
+    },
+    {
+      "id": 7,
+      "name": "Munnar, Alleppey",
+      "price": "₹ 11,999",
+      "days": "3 N / 4 D",
+      "Inclusion": "Hotels, Cruise, Sightseeing, Insurance, Meals"
+    }
+  ],
+  "Users":[
+    {
+      "acno":"max",
+      "pswd":1000
+    }
+  ]
+}

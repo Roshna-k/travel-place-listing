@@ -1,0 +1,24 @@
+<div  class="bg-light">
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">No</th>
+            <th scope="col">Packages</th>
+            <th scope="col">	Price</th>
+            <th scope="col">Days</th>
+            <th scope="col"> Inclusion</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let item of list">
+            <th scope="row">{{item.id}}</th>
+            <td>{{item.name}}</td>
+            <td>{{item.price}}</td>
+            <td>{{item.days}}</td>
+            <td>{{item.Inclusion}}</td>
+            <td><Button (click)="booking()"class="btn btn-primary" >Book Now</Button></td>
+          </tr>
+          
+        </tbody>
+      </table>
+</div>

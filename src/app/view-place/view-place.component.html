@@ -1,0 +1,62 @@
+<!-- Product section-->
+<section class="py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="row gx-4 gx-lg-5 align-items-center">
+            <div class="col-md-6">
+                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+                    <div class="carousel-indicators">
+                      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    </div>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img src="{{travelBody.photograph}}" class="d-block w-100" alt="...">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="{{travelBody.photograph1}}" class="d-block w-100" alt="...">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="{{travelBody.photograph2}}" class="d-block w-100" alt="...">
+                      </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                  </div>
+                <!-- <img class="card-img-top mb-5 mb-md-0" src="{{travelBody.photograph}}" alt="..." /> -->
+            </div>
+            <div class="col-md-6 text-light">
+                <div class="small mb-1">{{travelBody.id}}</div>
+                <h1 class="display-5 fw-bolder">{{travelBody.name}}</h1>
+                <div class="fs-5 mb-5">
+                    <span class="text-light">{{travelBody.subname}}</span>
+                <div>{{travelBody.location}}</div>
+                <h5>Best Time:{{travelBody.BestTime}}</h5>
+
+                </div>
+                <p class="lead">{{travelBody.descriptions}}</p>
+         
+                <p class="mt-2">
+                    <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                      Reviews
+                    </button>
+                  
+                  </p>
+                  <div class="collapse bg-black" id="collapseExample">
+                    <div class="card card-body ">
+                    <div class="mt-2 text-dark " *ngFor="let item of travelBody.reviews" >
+                        <h6>{{item['name']}} ( {{item['date']}} )</h6>
+             <h6>Rating: {{item['rating']}}</h6>
+             <p>Comments: {{item['comments']}}</p>
+                    </div>
+                    </div>
+                  </div>
+        </div>   </div>
+    </div>
+</section>
